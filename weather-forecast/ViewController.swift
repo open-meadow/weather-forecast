@@ -110,5 +110,8 @@ class ViewController: UIViewController, URLSessionDelegate, XMLParserDelegate {
         fetchData()
     }
     
+    @IBAction func settingsTapped(_ sender: UIBarButtonItem) {
+        
+    }
 }
 
